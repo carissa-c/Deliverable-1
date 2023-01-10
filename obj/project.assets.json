@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/carissacammarata/Projects/Deliverable_1/Deliverable_1/Deliverable_1.csproj",
+      "projectUniqueName": "/Users/carissacammarata/Desktop/Deliverable_1/Deliverable_1.csproj",
       "projectName": "Deliverable_1",
-      "projectPath": "/Users/carissacammarata/Projects/Deliverable_1/Deliverable_1/Deliverable_1.csproj",
+      "projectPath": "/Users/carissacammarata/Desktop/Deliverable_1/Deliverable_1.csproj",
       "packagesPath": "/Users/carissacammarata/.nuget/packages/",
-      "outputPath": "/Users/carissacammarata/Projects/Deliverable_1/Deliverable_1/obj/",
+      "outputPath": "/Users/carissacammarata/Desktop/Deliverable_1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/carissacammarata/.nuget/NuGet/NuGet.Config"
