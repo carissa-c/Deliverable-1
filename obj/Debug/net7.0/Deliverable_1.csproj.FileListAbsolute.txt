@@ -1,0 +1,15 @@
+/Users/carissacammarata/Projects/Deliverable_1/Deliverable_1/bin/Debug/net7.0/Deliverable_1
+/Users/carissacammarata/Projects/Deliverable_1/Deliverable_1/bin/Debug/net7.0/Deliverable_1.deps.json
+/Users/carissacammarata/Projects/Deliverable_1/Deliverable_1/bin/Debug/net7.0/Deliverable_1.runtimeconfig.json
+/Users/carissacammarata/Projects/Deliverable_1/Deliverable_1/bin/Debug/net7.0/Deliverable_1.dll
+/Users/carissacammarata/Projects/Deliverable_1/Deliverable_1/bin/Debug/net7.0/Deliverable_1.pdb
+/Users/carissacammarata/Projects/Deliverable_1/Deliverable_1/obj/Debug/net7.0/Deliverable_1.csproj.AssemblyReference.cache
+/Users/carissacammarata/Projects/Deliverable_1/Deliverable_1/obj/Debug/net7.0/Deliverable_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carissacammarata/Projects/Deliverable_1/Deliverable_1/obj/Debug/net7.0/Deliverable_1.AssemblyInfoInputs.cache
+/Users/carissacammarata/Projects/Deliverable_1/Deliverable_1/obj/Debug/net7.0/Deliverable_1.AssemblyInfo.cs
+/Users/carissacammarata/Projects/Deliverable_1/Deliverable_1/obj/Debug/net7.0/Deliverable_1.csproj.CoreCompileInputs.cache
+/Users/carissacammarata/Projects/Deliverable_1/Deliverable_1/obj/Debug/net7.0/Deliverable_1.dll
+/Users/carissacammarata/Projects/Deliverable_1/Deliverable_1/obj/Debug/net7.0/refint/Deliverable_1.dll
+/Users/carissacammarata/Projects/Deliverable_1/Deliverable_1/obj/Debug/net7.0/Deliverable_1.pdb
+/Users/carissacammarata/Projects/Deliverable_1/Deliverable_1/obj/Debug/net7.0/Deliverable_1.genruntimeconfig.cache
+/Users/carissacammarata/Projects/Deliverable_1/Deliverable_1/obj/Debug/net7.0/ref/Deliverable_1.dll
